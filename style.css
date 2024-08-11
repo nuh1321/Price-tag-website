@@ -1,0 +1,10 @@
+.card-header:hover{
+  background-color: #f9b116;
+  transition: .8s;
+}
+.card-header{
+    transition: .8s;
+}
+.card-body{
+    font-family: "Josefin Sans", sans-serif;
+}
